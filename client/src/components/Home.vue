@@ -12,6 +12,7 @@
     <p>email: {{ user.email }}</p>
     <p>name: {{ user.name }}</p>
     <p>username: {{ user.username }}</p>
+
   </div>
 </template>
 
